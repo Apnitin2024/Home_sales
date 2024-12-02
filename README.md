@@ -1,5 +1,5 @@
 
-Introduction
+### Introduction
 This challenge uses SparkSQL to determine key metrics about home sales data. Then uses Spark for creation of temporary views, partitions the data, caches and uncaches a temporary table, and verifies that the table has been uncached.
 
 This assignment answers the following questions:
